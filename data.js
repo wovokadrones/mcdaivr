@@ -135,7 +135,7 @@ var APP_DATA = {
   ],
   "name": "MCDAI",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": true
